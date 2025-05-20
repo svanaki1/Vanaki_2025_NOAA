@@ -23,7 +23,11 @@ The app in this repository represents the *human-in-the-loop* step of our workfl
 
 Vanaki_2025_NOAA/
 ├── code/ # R Shiny app for reviewing detections
+
 ├── images/ # Example images (optional or demo)
+
 ├── input/ # Initial model outputs (CSV + image list)
+
 ├── output/ # CSV of user-reviewed corrections
+
 └── README.md # You're here!
