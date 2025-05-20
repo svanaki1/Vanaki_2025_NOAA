@@ -21,7 +21,8 @@ The app in this repository represents the *human-in-the-loop* step of our workfl
 
 ## Repository Structure
 
-Vanaki_2025_NOAA/
+Vanaki_2025_NOAA
+
 ├── code/ # R Shiny app for reviewing detections
 
 ├── images/ # Example images (optional or demo)
