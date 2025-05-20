@@ -32,3 +32,13 @@ Vanaki_2025_NOAA
 ├── output/ # CSV of user-reviewed corrections
 
 └── README.md # You're here!
+
+
+---
+
+## Running the App
+
+The labeling app is written in R using Shiny. It displays one image at a time, overlays predicted bounding boxes, and allows the user to mark whether each prediction is correct, a false positive, or missed.
+
+You can preview how it works here: [▶️ App Demo (YouTube)](https://youtu.be/80k_2se_J0o?feature=shared)
+
