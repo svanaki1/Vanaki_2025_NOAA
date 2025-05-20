@@ -25,7 +25,7 @@ Vanaki_2025_NOAA
 
 ├── code/ # R Shiny app for reviewing detections
 
-├── images/ # Example images (optional or demo)
+├── images/ # Example images 
 
 ├── input/ # Initial model outputs (CSV + image list)
 
