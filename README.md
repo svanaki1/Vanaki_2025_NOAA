@@ -31,6 +31,8 @@ Vanaki_2025_NOAA
 
 ├── output/ # CSV of user-reviewed corrections
 
+├── interpolation/ # code and data used to interpolate onto Mid-Atlantic Bight
+
 └── README.md # You're here!
 
 
