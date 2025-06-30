@@ -25,13 +25,16 @@ Vanaki_2025_NOAA
 
 ├── code/ # R Shiny app for reviewing detections
 
-├── images/ # Example images 
+├── images/ # Example images (707 is for initial training, 476 is for training to get to iteration 2)
 
 ├── input/ # Initial model outputs (CSV + image list)
 
 ├── output/ # CSV of user-reviewed corrections
 
 ├── interpolation/ # code and data used to interpolate onto Mid-Atlantic Bight
+
+├── gam/ # code and data used for the CNN
+
 
 └── README.md # You're here!
 
