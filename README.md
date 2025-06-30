@@ -31,7 +31,7 @@ Vanaki_2025_NOAA
 
 ├── output/ # CSV of user-reviewed corrections
 
-├── interpolation/ # code and data used to interpolate onto Mid-Atlantic Bight
+├── interpolation/ # code and [data](https://drive.google.com/file/d/1ZnHc_lDQ8XsQk4ycLWJxplU-ZHZQ2elW/view?usp=sharing) used to interpolate onto Mid-Atlantic Bight
 
 ├── gam/ # code and data used for the CNN
 
