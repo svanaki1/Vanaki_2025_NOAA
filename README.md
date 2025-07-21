@@ -4,7 +4,7 @@
 
 Welcome! This repository contains the data and human-in-the-loop app used in our project to estimate sand dollar abundance on the seafloor.
 
-Our paper, *"How many dollars are in the sea?"*, accepted in *Ecological Informatics*, describes an iterative process combining machine learning and human expertise to count sand dollars in underwater images. This repo shares our initial model outputs and a labeling app used to train a more accurate second model.
+Our paper, *"How many dollars are in the sea?"*, accepted in *Ecological Informatics*, describes an iterative process combining machine learning and human expertise to count sand dollars in underwater images. This repo shares our initial model outputs and a labeling app used to train a more accurate second model. Click [here](https://doi.org/10.1016/j.ecoinf.2025.103311) to check it out.
 
 ---
 
